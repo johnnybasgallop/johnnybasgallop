@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ Fullstack & backend engineer with 4 years building things that actually work<br>⚡Currently building LogHub — a distributed log aggregation system<br>🚀 Previously bootstrapped SubConnect, a profitable MicroSaaS product<br>👀 Open to new opportunities — backend or fullstack roles
+🛠️ Fullstack & backend engineer with 4 years building things that actually work<br>⚡Currently building LogHub - a distributed log aggregation system<br>🚀 Previously bootstrapped SubConnect, a profitable MicroSaaS product<br>👀 Open to new opportunities - backend or fullstack roles
 
 
 ## 🌐 Socials:
