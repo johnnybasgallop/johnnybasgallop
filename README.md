@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ Fullstack & backend engineer with 4 years building things that actually work<br>⚡Currently building LogHub - a distributed log aggregation system<br>🚀 Currently working on PatchPilot - a dependency/vulnerability warning system with automated scanning pipelines and RAG-powered remediation guidance<br>👀 Open to new opportunities - backend or fullstack roles
+🛠️ Fullstack & backend engineer with 4 years building things that actually work<br>⚡Currently building LogHub - a distributed log aggregation system<br>🚀Currently working on Orbital - A real time satellite collision prediction software using live Space Force data.<br>👀 Open to new opportunities - backend or fullstack roles
 
 
 ## 🌐 Socials:
