@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ Fullstack & backend engineer with 4 YOE building exciting things!<br>⚡Currently building LogHub - a distributed log aggregation system<br>🚀Currently working on Orbital - A real time satellite collision prediction software using live Space Force data.<br>👀 Open to new opportunities - backend or fullstack roles
+🛠️ Fullstack & backend engineer with 4 YOE building exciting things!<br>⚡Interested in Agentic AI, Automation and Fintech<br>🧠Currently learning LiveKit for the development of voice powered AI Agents.<br>👀 Open to new opportunities - backend or fullstack roles
 
 
 ## 🌐 Socials:
